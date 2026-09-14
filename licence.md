@@ -1,6 +1,44 @@
+# 📄 License for DOJO
+
+![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)
+![Maintained by](https://img.shields.io/badge/Maintained%20by-AstroLabs%20%26%20Co.-186552)
+
+| | |
+|---|---|
+| **Licensed Material** | DOJO |
+| **Licensor** | AstroLabs & Co. |
+| **License** | [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/) (CC BY-NC 4.0) |
+
+> This work, **DOJO**, is made available by **AstroLabs & Co.** under the terms of the Creative Commons Attribution-NonCommercial 4.0 International Public License set out below. By using DOJO under this license, you accept and agree to be bound by these terms.
+
+## Table of Contents
+
+- [Summary](#summary)
+- [Full License Text](#full-license-text)
+  - [Section 1 — Definitions](#section-1--definitions)
+  - [Section 2 — Scope](#section-2--scope)
+  - [Section 3 — License Conditions](#section-3--license-conditions)
+  - [Section 4 — Sui Generis Database Rights](#section-4--sui-generis-database-rights)
+  - [Section 5 — Disclaimer of Warranties and Limitation of Liability](#section-5--disclaimer-of-warranties-and-limitation-of-liability)
+  - [Section 6 — Term and Termination](#section-6--term-and-termination)
+  - [Section 7 — Other Terms and Conditions](#section-7--other-terms-and-conditions)
+  - [Section 8 — Interpretation](#section-8--interpretation)
+
+## Summary
+
+- ✅ You may **share** and **adapt** DOJO
+- ✅ **Attribution** to AstroLabs & Co. is required
+- 🚫 **Commercial use is not permitted**
+- 🚫 No additional restrictions may be placed on downstream recipients
+
+This summary is not a substitute for the full license text below, which is the legally binding version.
+
+---
+
+## Full License Text
+
 Attribution-NonCommercial 4.0 International
 
-=======================================================================
 
 Creative Commons Corporation ("Creative Commons") is not a law firm and
 does not provide legal services or legal advice. Distribution of
@@ -52,7 +90,6 @@ exhaustive, and do not form part of our licenses.
      for the public:
     wiki.creativecommons.org/Considerations_for_licensees
 
-=======================================================================
 
 Creative Commons Attribution-NonCommercial 4.0 International Public
 License
@@ -62,13 +99,13 @@ to be bound by the terms and conditions of this Creative Commons
 Attribution-NonCommercial 4.0 International Public License ("Public
 License"). To the extent this Public License may be interpreted as a
 contract, You are granted the Licensed Rights in consideration of Your
-acceptance of these terms and conditions, and the Licensor grants You
-such rights in consideration of benefits the Licensor receives from
-making the Licensed Material available under these terms and
-conditions.
+acceptance of these terms and conditions, and the Licensor (AstroLabs & Co.)
+grants You such rights in consideration of benefits the Licensor
+receives from making the Licensed Material (DOJO) available under
+these terms and conditions.
 
 
-Section 1 -- Definitions.
+## Section 1 — Definitions
 
   a. Adapted Material means material subject to Copyright and Similar
      Rights that is derived from or based upon the Licensed Material
@@ -101,17 +138,16 @@ Section 1 -- Definitions.
      any other exception or limitation to Copyright and Similar Rights
      that applies to Your use of the Licensed Material.
 
-  f. Licensed Material means the artistic or literary work, database,
-     or other material to which the Licensor applied this Public
-     License.
+  f. Licensed Material means DOJO, or other material to which
+     AstroLabs & Co. applied this Public License.
 
   g. Licensed Rights means the rights granted to You subject to the
      terms and conditions of this Public License, which are limited to
      all Copyright and Similar Rights that apply to Your use of the
      Licensed Material and that the Licensor has authority to license.
 
-  h. Licensor means the individual(s) or entity(ies) granting rights
-     under this Public License.
+  h. Licensor means AstroLabs & Co., the entity granting rights under
+     this Public License.
 
   i. NonCommercial means not primarily intended for or directed towards
      commercial advantage or monetary compensation. For purposes of
@@ -139,20 +175,20 @@ Section 1 -- Definitions.
      under this Public License. Your has a corresponding meaning.
 
 
-Section 2 -- Scope.
+## Section 2 — Scope
 
   a. License grant.
 
        1. Subject to the terms and conditions of this Public License,
-          the Licensor hereby grants You a worldwide, royalty-free,
+          AstroLabs & Co. hereby grants You a worldwide, royalty-free,
           non-sublicensable, non-exclusive, irrevocable license to
-          exercise the Licensed Rights in the Licensed Material to:
+          exercise the Licensed Rights in DOJO to:
 
-            a. reproduce and Share the Licensed Material, in whole or
-               in part, for NonCommercial purposes only; and
+            a. reproduce and Share DOJO, in whole or in part, for
+               NonCommercial purposes only; and
 
-            b. produce, reproduce, and Share Adapted Material for
-               NonCommercial purposes only.
+            b. produce, reproduce, and Share Adapted Material based on
+               DOJO for NonCommercial purposes only.
 
        2. Exceptions and Limitations. For the avoidance of doubt, where
           Exceptions and Limitations apply to Your use, this Public
@@ -162,10 +198,10 @@ Section 2 -- Scope.
        3. Term. The term of this Public License is specified in Section
           6(a).
 
-       4. Media and formats; technical modifications allowed. The
-          Licensor authorizes You to exercise the Licensed Rights in
-          all media and formats whether now known or hereafter created,
-          and to make technical modifications necessary to do so. The
+       4. Media and formats; technical modifications allowed. AstroLabs
+          & Co. authorizes You to exercise the Licensed Rights in all
+          media and formats whether now known or hereafter created, and
+          to make technical modifications necessary to do so. The
           Licensor waives and/or agrees not to assert any right or
           authority to forbid You from making technical modifications
           necessary to exercise the Licensed Rights, including
@@ -176,66 +212,64 @@ Section 2 -- Scope.
 
        5. Downstream recipients.
 
-            a. Offer from the Licensor -- Licensed Material. Every
-               recipient of the Licensed Material automatically
-               receives an offer from the Licensor to exercise the
-               Licensed Rights under the terms and conditions of this
-               Public License.
+            a. Offer from AstroLabs & Co. -- Licensed Material. Every
+               recipient of DOJO automatically receives an offer from
+               AstroLabs & Co. to exercise the Licensed Rights under
+               the terms and conditions of this Public License.
 
             b. No downstream restrictions. You may not offer or impose
                any additional or different terms or conditions on, or
-               apply any Effective Technological Measures to, the
-               Licensed Material if doing so restricts exercise of the
-               Licensed Rights by any recipient of the Licensed
-               Material.
+               apply any Effective Technological Measures to, DOJO if
+               doing so restricts exercise of the Licensed Rights by
+               any recipient of DOJO.
 
        6. No endorsement. Nothing in this Public License constitutes or
           may be construed as permission to assert or imply that You
-          are, or that Your use of the Licensed Material is, connected
-          with, or sponsored, endorsed, or granted official status by,
-          the Licensor or others designated to receive attribution as
-          provided in Section 3(a)(1)(A)(i).
+          are, or that Your use of DOJO is, connected with, or
+          sponsored, endorsed, or granted official status by, AstroLabs
+          & Co. or others designated to receive attribution as provided
+          in Section 3(a)(1)(A)(i).
 
   b. Other rights.
 
        1. Moral rights, such as the right of integrity, are not
           licensed under this Public License, nor are publicity,
           privacy, and/or other similar personality rights; however, to
-          the extent possible, the Licensor waives and/or agrees not to
-          assert any such rights held by the Licensor to the limited
-          extent necessary to allow You to exercise the Licensed
-          Rights, but not otherwise.
+          the extent possible, AstroLabs & Co. waives and/or agrees not
+          to assert any such rights held by AstroLabs & Co. to the
+          limited extent necessary to allow You to exercise the
+          Licensed Rights, but not otherwise.
 
-       2. Patent and trademark rights are not licensed under this
-          Public License.
+       2. Patent and trademark rights, including any rights in the DOJO
+          name, logo, or branding, are not licensed under this Public
+          License.
 
-       3. To the extent possible, the Licensor waives any right to
+       3. To the extent possible, AstroLabs & Co. waives any right to
           collect royalties from You for the exercise of the Licensed
           Rights, whether directly or through a collecting society
           under any voluntary or waivable statutory or compulsory
-          licensing scheme. In all other cases the Licensor expressly
-          reserves any right to collect such royalties, including when
-          the Licensed Material is used other than for NonCommercial
+          licensing scheme. In all other cases AstroLabs & Co.
+          expressly reserves any right to collect such royalties,
+          including when DOJO is used other than for NonCommercial
           purposes.
 
 
-Section 3 -- License Conditions.
+## Section 3 — License Conditions
 
 Your exercise of the Licensed Rights is expressly made subject to the
 following conditions.
 
   a. Attribution.
 
-       1. If You Share the Licensed Material (including in modified
-          form), You must:
+       1. If You Share DOJO (including in modified form), You must:
 
-            a. retain the following if it is supplied by the Licensor
-               with the Licensed Material:
+            a. retain the following if it is supplied by AstroLabs &
+               Co. with DOJO:
 
-                 i. identification of the creator(s) of the Licensed
-                    Material and any others designated to receive
+                 i. identification of AstroLabs & Co. as the creator of
+                    DOJO and any others designated to receive
                     attribution, in any reasonable manner requested by
-                    the Licensor (including by pseudonym if
+                    AstroLabs & Co. (including by pseudonym if
                     designated);
 
                 ii. a copyright notice;
@@ -245,36 +279,35 @@ following conditions.
                 iv. a notice that refers to the disclaimer of
                     warranties;
 
-                 v. a URI or hyperlink to the Licensed Material to the
-                    extent reasonably practicable;
+                 v. a URI or hyperlink to DOJO to the extent reasonably
+                    practicable;
 
-            b. indicate if You modified the Licensed Material and
-               retain an indication of any previous modifications; and
+            b. indicate if You modified DOJO and retain an indication
+               of any previous modifications; and
 
-            c. indicate the Licensed Material is licensed under this
-               Public License, and include the text of, or the URI or
-               hyperlink to, this Public License.
+            c. indicate DOJO is licensed under this Public License, and
+               include the text of, or the URI or hyperlink to, this
+               Public License.
 
        2. You may satisfy the conditions in Section 3(a)(1) in any
           reasonable manner based on the medium, means, and context in
-          which You Share the Licensed Material. For example, it may be
-          reasonable to satisfy the conditions by providing a URI or
-          hyperlink to a resource that includes the required
-          information.
+          which You Share DOJO. For example, it may be reasonable to
+          satisfy the conditions by providing a URI or hyperlink to a
+          resource that includes the required information.
 
-       3. If requested by the Licensor, You must remove any of the
+       3. If requested by AstroLabs & Co., You must remove any of the
           information required by Section 3(a)(1)(A) to the extent
           reasonably practicable.
 
-       4. If You Share Adapted Material You produce, the Adapter's
-          License You apply must not prevent recipients of the Adapted
-          Material from complying with this Public License.
+       4. If You Share Adapted Material You produce based on DOJO, the
+          Adapter's License You apply must not prevent recipients of
+          the Adapted Material from complying with this Public License.
 
 
-Section 4 -- Sui Generis Database Rights.
+## Section 4 — Sui Generis Database Rights
 
 Where the Licensed Rights include Sui Generis Database Rights that
-apply to Your use of the Licensed Material:
+apply to Your use of DOJO:
 
   a. for the avoidance of doubt, Section 2(a)(1) grants You the right
      to extract, reuse, reproduce, and Share all or a substantial
@@ -294,28 +327,28 @@ replace Your obligations under this Public License where the Licensed
 Rights include other Copyright and Similar Rights.
 
 
-Section 5 -- Disclaimer of Warranties and Limitation of Liability.
+## Section 5 — Disclaimer of Warranties and Limitation of Liability
 
-  a. UNLESS OTHERWISE SEPARATELY UNDERTAKEN BY THE LICENSOR, TO THE
-     EXTENT POSSIBLE, THE LICENSOR OFFERS THE LICENSED MATERIAL AS-IS
-     AND AS-AVAILABLE, AND MAKES NO REPRESENTATIONS OR WARRANTIES OF
-     ANY KIND CONCERNING THE LICENSED MATERIAL, WHETHER EXPRESS,
-     IMPLIED, STATUTORY, OR OTHER. THIS INCLUDES, WITHOUT LIMITATION,
-     WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR
-     PURPOSE, NON-INFRINGEMENT, ABSENCE OF LATENT OR OTHER DEFECTS,
-     ACCURACY, OR THE PRESENCE OR ABSENCE OF ERRORS, WHETHER OR NOT
-     KNOWN OR DISCOVERABLE. WHERE DISCLAIMERS OF WARRANTIES ARE NOT
-     ALLOWED IN FULL OR IN PART, THIS DISCLAIMER MAY NOT APPLY TO YOU.
+  a. UNLESS OTHERWISE SEPARATELY UNDERTAKEN BY ASTROLABS & CO., TO THE
+     EXTENT POSSIBLE, ASTROLABS & CO. OFFERS DOJO AS-IS AND
+     AS-AVAILABLE, AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY
+     KIND CONCERNING DOJO, WHETHER EXPRESS, IMPLIED, STATUTORY, OR
+     OTHER. THIS INCLUDES, WITHOUT LIMITATION, WARRANTIES OF TITLE,
+     MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+     NON-INFRINGEMENT, ABSENCE OF LATENT OR OTHER DEFECTS, ACCURACY, OR
+     THE PRESENCE OR ABSENCE OF ERRORS, WHETHER OR NOT KNOWN OR
+     DISCOVERABLE. WHERE DISCLAIMERS OF WARRANTIES ARE NOT ALLOWED IN
+     FULL OR IN PART, THIS DISCLAIMER MAY NOT APPLY TO YOU.
 
-  b. TO THE EXTENT POSSIBLE, IN NO EVENT WILL THE LICENSOR BE LIABLE
+  b. TO THE EXTENT POSSIBLE, IN NO EVENT WILL ASTROLABS & CO. BE LIABLE
      TO YOU ON ANY LEGAL THEORY (INCLUDING, WITHOUT LIMITATION,
      NEGLIGENCE) OR OTHERWISE FOR ANY DIRECT, SPECIAL, INDIRECT,
      INCIDENTAL, CONSEQUENTIAL, PUNITIVE, EXEMPLARY, OR OTHER LOSSES,
      COSTS, EXPENSES, OR DAMAGES ARISING OUT OF THIS PUBLIC LICENSE OR
-     USE OF THE LICENSED MATERIAL, EVEN IF THE LICENSOR HAS BEEN
-     ADVISED OF THE POSSIBILITY OF SUCH LOSSES, COSTS, EXPENSES, OR
-     DAMAGES. WHERE A LIMITATION OF LIABILITY IS NOT ALLOWED IN FULL OR
-     IN PART, THIS LIMITATION MAY NOT APPLY TO YOU.
+     USE OF DOJO, EVEN IF ASTROLABS & CO. HAS BEEN ADVISED OF THE
+     POSSIBILITY OF SUCH LOSSES, COSTS, EXPENSES, OR DAMAGES. WHERE A
+     LIMITATION OF LIABILITY IS NOT ALLOWED IN FULL OR IN PART, THIS
+     LIMITATION MAY NOT APPLY TO YOU.
 
   c. The disclaimer of warranties and limitation of liability provided
      above shall be interpreted in a manner that, to the extent
@@ -323,51 +356,51 @@ Section 5 -- Disclaimer of Warranties and Limitation of Liability.
      waiver of all liability.
 
 
-Section 6 -- Term and Termination.
+## Section 6 — Term and Termination
 
   a. This Public License applies for the term of the Copyright and
      Similar Rights licensed here. However, if You fail to comply with
      this Public License, then Your rights under this Public License
      terminate automatically.
 
-  b. Where Your right to use the Licensed Material has terminated under
-     Section 6(a), it reinstates:
+  b. Where Your right to use DOJO has terminated under Section 6(a), it
+     reinstates:
 
        1. automatically as of the date the violation is cured, provided
           it is cured within 30 days of Your discovery of the
           violation; or
 
-       2. upon express reinstatement by the Licensor.
+       2. upon express reinstatement by AstroLabs & Co.
 
      For the avoidance of doubt, this Section 6(b) does not affect any
-     right the Licensor may have to seek remedies for Your violations
-     of this Public License.
+     right AstroLabs & Co. may have to seek remedies for Your
+     violations of this Public License.
 
-  c. For the avoidance of doubt, the Licensor may also offer the
-     Licensed Material under separate terms or conditions or stop
-     distributing the Licensed Material at any time; however, doing so
-     will not terminate this Public License.
+  c. For the avoidance of doubt, AstroLabs & Co. may also offer DOJO
+     under separate terms or conditions or stop distributing DOJO at
+     any time; however, doing so will not terminate this Public
+     License.
 
   d. Sections 1, 5, 6, 7, and 8 survive termination of this Public
      License.
 
 
-Section 7 -- Other Terms and Conditions.
+## Section 7 — Other Terms and Conditions
 
-  a. The Licensor shall not be bound by any additional or different
+  a. AstroLabs & Co. shall not be bound by any additional or different
      terms or conditions communicated by You unless expressly agreed.
 
-  b. Any arrangements, understandings, or agreements regarding the
-     Licensed Material not stated herein are separate from and
-     independent of the terms and conditions of this Public License.
+  b. Any arrangements, understandings, or agreements regarding DOJO not
+     stated herein are separate from and independent of the terms and
+     conditions of this Public License.
 
 
-Section 8 -- Interpretation.
+## Section 8 — Interpretation
 
   a. For the avoidance of doubt, this Public License does not, and
      shall not be interpreted to, reduce, limit, restrict, or impose
-     conditions on any use of the Licensed Material that could lawfully
-     be made without permission under this Public License.
+     conditions on any use of DOJO that could lawfully be made without
+     permission under this Public License.
 
   b. To the extent possible, if any provision of this Public License is
      deemed unenforceable, it shall be automatically reformed to the
@@ -377,31 +410,21 @@ Section 8 -- Interpretation.
      conditions.
 
   c. No term or condition of this Public License will be waived and no
-     failure to comply consented to unless expressly agreed to by the
-     Licensor.
+     failure to comply consented to unless expressly agreed to by
+     AstroLabs & Co.
 
   d. Nothing in this Public License constitutes or may be interpreted
      as a limitation upon, or waiver of, any privileges and immunities
-     that apply to the Licensor or You, including from the legal
+     that apply to AstroLabs & Co. or You, including from the legal
      processes of any jurisdiction or authority.
 
-=======================================================================
 
-Creative Commons is not a party to its public
-licenses. Notwithstanding, Creative Commons may elect to apply one of
-its public licenses to material it publishes and in those instances
-will be considered the “Licensor.” The text of the Creative Commons
-public licenses is dedicated to the public domain under the CC0 Public
-Domain Dedication. Except for the limited purpose of indicating that
-material is shared under a Creative Commons public license or as
-otherwise permitted by the Creative Commons policies published at
-creativecommons.org/policies, Creative Commons does not authorize the
-use of the trademark "Creative Commons" or any other trademark or logo
-of Creative Commons without its prior written consent including,
-without limitation, in connection with any unauthorized modifications
-to any of its public licenses or any other arrangements,
-understandings, or agreements concerning use of licensed material. For
-the avoidance of doubt, this paragraph does not form part of the
-public licenses.
+This license text is adapted from the Creative Commons
+Attribution-NonCommercial 4.0 International Public License. Creative
+Commons is not a party to this license and is not the Licensor of
+DOJO — AstroLabs & Co. is. The underlying license text is dedicated to
+the public domain under the CC0 Public Domain Dedication. Use of the
+"Creative Commons" trademark or logo requires Creative Commons' prior
+written consent.
 
 Creative Commons may be contacted at creativecommons.org.
