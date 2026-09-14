@@ -7,7 +7,7 @@
 - [x] Badge assets
 
 ## Pages to build
-- [ ] Log In
+- [x] Log In
 - [ ] Sign Up
 - [ ] Forgot/Reset Password
 - [ ] Dashboard / Today's Tasks
