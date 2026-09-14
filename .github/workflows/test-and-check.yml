@@ -41,3 +41,18 @@ jobs:
         env:
           PR_URL: ${{ github.event.pull_request.html_url }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Wait for merge, then delete branch
+        if: github.event_name == 'pull_request'
+        run: |
+          for i in $(seq 1 20); do
+            STATE=$(gh pr view "$PR_URL" --json state -q .state)
+            if [ "$STATE" = "MERGED" ]; then
+              gh api -X DELETE "repos/${{ github.repository }}/git/refs/heads/${{ github.head_ref }}" || true
+              break
+            fi
+            sleep 5
+          done
+        env:
+          PR_URL: ${{ github.event.pull_request.html_url }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
