@@ -1,6 +1,6 @@
 # DOJO - Build Checklist
 
-## ✅ Done
+## ✅ Completed
 - [x] Colour palette
 - [x] Icon set
 - [x] Login screen
