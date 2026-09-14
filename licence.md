@@ -7,7 +7,7 @@
 |---|---|
 | **Licensed Material** | DOJO |
 | **Licensor** | AstroLabs & Co. |
-| **License type** | Proprietary — All Rights Reserved, with limited permissions granted below |
+| **License type** | Proprietary - All Rights Reserved, with limited permissions granted below |
 
 > This work, **DOJO**, is the property of **AstroLabs & Co.** All rights not expressly granted below are reserved.
 
@@ -28,7 +28,7 @@
 - ✅ You may view, use, and privately modify DOJO for personal, non-commercial purposes
 - 🚫 **Publishing, distributing, or making DOJO (or any copy or adaptation of it) available to any third party is not allowed** without explicit, written consent from Lucas
 - 🚫 Commercial use is not permitted under any circumstances
-- 🚫 No sublicensing — this license cannot be passed on or extended to others
+- 🚫 No sublicensing - this license cannot be passed on or extended to others
 
 This summary is not a substitute for the full terms below.
 
@@ -85,4 +85,4 @@ The Licensor may update or replace this license at any time. Any separate writte
 
 ---
 
-*This is a custom license, not a Creative Commons license. It has not been reviewed by a lawyer — for any commercial or high-stakes use, have it checked by one before relying on it.*
+*This is a custom license, not a Creative Commons license. It has not been reviewed by a lawyer - for any commercial or high-stakes use, have it checked by one before relying on it.*
