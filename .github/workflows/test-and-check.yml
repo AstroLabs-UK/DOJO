@@ -1,8 +1,13 @@
-name: Test Flask App
+name: Test Flask & Automerge
 
 on:
   pull_request:
     branches: [main]
+    types: [opened, reopened, synchronize]
+
+permissions:
+  contents: write
+  pull-requests: write
 
 jobs:
   test:
@@ -29,3 +34,10 @@ jobs:
       - name: Check /health endpoint
         run: |
           curl --fail http://127.0.0.1:5000/health || exit 1
+
+      - name: Enable auto-merge
+        if: github.event_name == 'pull_request'
+        run: gh pr merge --auto --squash "$PR_URL"
+        env:
+          PR_URL: ${{ github.event.pull_request.html_url }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
