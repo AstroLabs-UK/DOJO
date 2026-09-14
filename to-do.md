@@ -4,7 +4,7 @@
 - [x] Colour palette
 - [x] Icon set
 - [x] Login screen
-- [x] Badge assets (16 circular medallions, transparent SVG)
+- [x] Badge assets
 
 ## Pages to build
 - [ ] Log In
