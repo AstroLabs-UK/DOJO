@@ -11,9 +11,11 @@ permissions:
 jobs:
   ping:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Ping Supabase (real table query)
+      - name: Ping Supabase
         run: |
-          curl --fail "${{ secrets.SUPABASE_URL }}/rest/v1/logs?select=id&limit=1" \
+          curl --fail --silent --show-error \
+            "${{ secrets.SUPABASE_URL }}/rest/v1/keepalive_logs?select=*&order=created_at.desc&limit=1" \
             -H "apikey: ${{ secrets.SUPABASE_KEY_PUBLIC }}" \
             -H "Authorization: Bearer ${{ secrets.SUPABASE_KEY_PUBLIC }}"
