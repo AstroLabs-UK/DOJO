@@ -1,4 +1,4 @@
-# DOJO 
+# DOJO
 
 A gamified task assistant built for people with ADHD and executive dysfunction. DOJO breaks big tasks into small steps, then uses photo verification to confirm each step actually got done.
 
