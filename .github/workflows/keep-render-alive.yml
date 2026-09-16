@@ -2,15 +2,31 @@ name: Keep Render Alive
 
 on:
   schedule:
-    - cron: "*/10 * * * *"  # every 10 minutes
+    # Ping Render every 10 minutes to prevent the service
+    # from being inactive for long enough to spin down.
+    - cron: "*/10 * * * *"
+
+  # Allows you to test the workflow manually from GitHub Actions.
   workflow_dispatch:
 
 permissions:
   contents: read
 
 jobs:
-  ping:
+  keep-alive:
     runs-on: ubuntu-latest
+    timeout-minutes: 3
+
     steps:
-      - name: Ping backend health endpoint
-        run: curl --fail https://dojo-backend-e5fx.onrender.com/health
+      - name: Ping Render health endpoint
+        run: |
+          curl \
+            --fail \
+            --silent \
+            --show-error \
+            --location \
+            --retry 3 \
+            --retry-delay 5 \
+            --connect-timeout 10 \
+            --max-time 120 \
+            https://dojo-backend-e5fx.onrender.com/health
