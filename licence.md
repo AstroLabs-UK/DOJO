@@ -8,6 +8,7 @@
 | **Licensed Material** | DOJO |
 | **Licensor** | AstroLabs & Co. |
 | **License type** | Proprietary - All Rights Reserved, with limited permissions granted below |
+| **Contact** | lucas@astrolabs.uk |
 
 > This work, **DOJO**, is the property of **AstroLabs & Co.** All rights not expressly granted below are reserved.
 
@@ -61,7 +62,7 @@ This includes, without limitation:
 - sublicensing or granting others rights to DOJO; and
 - incorporating DOJO or any part of it into another product that is itself published or distributed.
 
-Written consent may be given by email or other durable written form and should specify the scope of what is being permitted.
+Written consent may be given by email or other durable written form and should specify the scope of what is being permitted. Requests for consent, or any other queries about this license, can be sent to **lucas@astrolabs.uk**.
 
 ## 4. Attribution
 
