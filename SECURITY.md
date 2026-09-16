@@ -1,6 +1,6 @@
 # Security Policy
 
-## Supported Versions
+## Supported Versions 
 
 DOJO is currently in active early-stage development. Security updates apply to the latest version only.
 
